@@ -1,0 +1,9 @@
+[
+  {
+    "id": "demo-001",
+    "username": "demo-user",
+    "status": "active",
+    "last_seen": null,
+    "note": "Contoh data — ganti dengan database aplikasi yang sebenarnya"
+  }
+]
